@@ -3,7 +3,7 @@ home: true
 title: Home
 heroImage: /images/logo.png
 heroText: AiXinGe
-tagline: 🚀让消息推送不在复杂
+tagline: 🚀让消息推送不再复杂
 actions:
   - text: Gitee
     link: https://gitee.com/aixinge
