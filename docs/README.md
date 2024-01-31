@@ -18,6 +18,6 @@ features:
     details: 一个 SDK/API 实现不同类型的消息推送功能，内部已对接各种消息渠道，消息推送用它一个就够了。
   - title: 易管理
     details: 通过 Admin UI 可以实现不同渠道的配置与管理，整个过程高度可视化，同时具备不同粒度的权限控制。
-footer: Copyright © 2022 <a href="https://aixinge.com" target="_blank" style="font-weight:bold">AiXinGe</a> | <a href="http://beian.miit.gov.cn/" target=_blank>渝ICP备2021000141号-2</a>
+footer: Copyright © 2022 <a href="https://aixinge.com" target="_blank" style="font-weight:bold">AiXinGe</a> | <a href="http://beian.miit.gov.cn/" target=_blank>渝ICP备2021000141号-2</a> | <a href="https://beian.mps.gov.cn/#/query/webSearch?code=50011302222096" rel="noreferrer" target="_blank">渝公网安备50011302222096</a>
 footerHtml: true
 ---
